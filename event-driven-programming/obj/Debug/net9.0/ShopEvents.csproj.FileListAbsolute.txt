@@ -1,0 +1,14 @@
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/bin/Debug/net9.0/ShopEvents
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/bin/Debug/net9.0/ShopEvents.deps.json
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/bin/Debug/net9.0/ShopEvents.runtimeconfig.json
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/bin/Debug/net9.0/ShopEvents.dll
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/bin/Debug/net9.0/ShopEvents.pdb
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ShopEvents.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ShopEvents.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ShopEvents.AssemblyInfo.cs
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ShopEvents.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ShopEvents.dll
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/refint/ShopEvents.dll
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ShopEvents.pdb
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ShopEvents.genruntimeconfig.cache
+/home/jan/Dokumenty/csharp_p3/event-driven-programming/obj/Debug/net9.0/ref/ShopEvents.dll

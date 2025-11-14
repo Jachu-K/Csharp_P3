@@ -1,0 +1,14 @@
+/home/jan/Dokumenty/csharp_p3/filesignal/bin/Debug/net9.0/filesignal
+/home/jan/Dokumenty/csharp_p3/filesignal/bin/Debug/net9.0/filesignal.deps.json
+/home/jan/Dokumenty/csharp_p3/filesignal/bin/Debug/net9.0/filesignal.runtimeconfig.json
+/home/jan/Dokumenty/csharp_p3/filesignal/bin/Debug/net9.0/filesignal.dll
+/home/jan/Dokumenty/csharp_p3/filesignal/bin/Debug/net9.0/filesignal.pdb
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/filesignal.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/filesignal.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/filesignal.AssemblyInfo.cs
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/filesignal.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/filesignal.dll
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/refint/filesignal.dll
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/filesignal.pdb
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/filesignal.genruntimeconfig.cache
+/home/jan/Dokumenty/csharp_p3/filesignal/obj/Debug/net9.0/ref/filesignal.dll

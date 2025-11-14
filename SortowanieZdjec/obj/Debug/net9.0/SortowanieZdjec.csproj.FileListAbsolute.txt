@@ -1,0 +1,14 @@
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/bin/Debug/net9.0/SortowanieZdjec
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/bin/Debug/net9.0/SortowanieZdjec.deps.json
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/bin/Debug/net9.0/SortowanieZdjec.runtimeconfig.json
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/bin/Debug/net9.0/SortowanieZdjec.dll
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/bin/Debug/net9.0/SortowanieZdjec.pdb
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/SortowanieZdjec.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/SortowanieZdjec.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/SortowanieZdjec.AssemblyInfo.cs
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/SortowanieZdjec.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/SortowanieZdjec.dll
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/refint/SortowanieZdjec.dll
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/SortowanieZdjec.pdb
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/SortowanieZdjec.genruntimeconfig.cache
+/home/jan/Dokumenty/csharp_p3/SortowanieZdjec/obj/Debug/net9.0/ref/SortowanieZdjec.dll
