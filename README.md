@@ -3,3 +3,4 @@ A comprehensive collection of laboratory exercises I did at home, focusing on C#
 **Key Features:**
 - Custom attributes and reflection
 - LINQ operations and functional programming
+- Events
