@@ -1,0 +1,14 @@
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/bin/Debug/net9.0/TaskManager
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/bin/Debug/net9.0/TaskManager.deps.json
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/bin/Debug/net9.0/TaskManager.runtimeconfig.json
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/bin/Debug/net9.0/TaskManager.dll
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/bin/Debug/net9.0/TaskManager.pdb
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.AssemblyInfo.cs
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.dll
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/refint/TaskManager.dll
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.pdb
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/TaskManager.genruntimeconfig.cache
+/home/jan/Dokumenty/csharp_p3/TaskManager/TaskManager/obj/Debug/net9.0/ref/TaskManager.dll
