@@ -1,0 +1,14 @@
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/Plugins.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/Plugins.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/Plugins.AssemblyInfo.cs
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/Plugins.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/bin/Debug/net9.0/Plugins
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/bin/Debug/net9.0/Plugins.deps.json
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/bin/Debug/net9.0/Plugins.runtimeconfig.json
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/bin/Debug/net9.0/Plugins.dll
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/bin/Debug/net9.0/Plugins.pdb
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/Plugins.dll
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/refint/Plugins.dll
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/Plugins.pdb
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/Plugins.genruntimeconfig.cache
+/home/jan/Dokumenty/csharp_p3/Plugins/Plugins/obj/Debug/net9.0/ref/Plugins.dll
