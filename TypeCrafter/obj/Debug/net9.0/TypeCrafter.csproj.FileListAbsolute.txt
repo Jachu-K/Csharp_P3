@@ -1,0 +1,14 @@
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/bin/Debug/net9.0/TypeCrafter
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/bin/Debug/net9.0/TypeCrafter.deps.json
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/bin/Debug/net9.0/TypeCrafter.runtimeconfig.json
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/bin/Debug/net9.0/TypeCrafter.dll
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/bin/Debug/net9.0/TypeCrafter.pdb
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/TypeCrafter.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/TypeCrafter.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/TypeCrafter.AssemblyInfo.cs
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/TypeCrafter.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/TypeCrafter.dll
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/refint/TypeCrafter.dll
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/TypeCrafter.pdb
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/TypeCrafter.genruntimeconfig.cache
+/home/jan/Dokumenty/csharp_p3/TypeCrafter/obj/Debug/net9.0/ref/TypeCrafter.dll
