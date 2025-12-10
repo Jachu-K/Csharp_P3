@@ -1,0 +1,12 @@
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/bin/Debug/net8.0/HttpSimulator.deps.json
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/bin/Debug/net8.0/HttpSimulator.dll
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/bin/Debug/net8.0/HttpSimulator.pdb
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/HttpSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/HttpSimulator.AssemblyInfoInputs.cache
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/HttpSimulator.AssemblyInfo.cs
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/HttpSimulator.csproj.CoreCompileInputs.cache
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/HttpSimulator.sourcelink.json
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/HttpSimulator.dll
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/refint/HttpSimulator.dll
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/HttpSimulator.pdb
+/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/obj/Debug/net8.0/ref/HttpSimulator.dll

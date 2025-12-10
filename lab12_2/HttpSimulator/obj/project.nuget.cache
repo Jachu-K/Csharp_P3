@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZqRT7idVDc=",
+  "success": true,
+  "projectFilePath": "/home/jan/Dokumenty/csharp_p3/Lab12-20251210T151554Z-3-001/Lab12/HttpSimulator/HttpSimulator.csproj",
+  "expectedPackageFiles": [
+    "/home/jan/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/jan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
